@@ -265,10 +265,10 @@
                                     <i class="fab fa-instagram fa-stack-1x"></i>
                                 </a>
                             </span>
-                            <span class="fa-stack" title="Acessar Linkedin Cristiano Meira Advogados">
-                                <a href="<?php echo linkedin;?>" target="_blank">
+                            <span class="fa-stack" title="Acessar WhatsApp Cristiano Meira Advogados">
+                                <a href="<?php echo wpp;?>" target="_blank">
                                     <i class="fas fa-circle fa-stack-2x"></i>
-                                    <i class="fab fa-linkedin-in fa-stack-1x"></i>
+                                    <i class="fab fa-whatsapp fa-stack-1x"></i>
                                 </a>
                             </span>
                         </div>

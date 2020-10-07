@@ -132,9 +132,9 @@
                         <div class="col-md-7 central-image-col">
 
                             <div class="owl-carousel owl-theme">
-                                <div class="item"><img style="border-radius: 10px;" class="img-fluid" src="img/EDITADAS/CRISTIANO-31_min.jpg" width="100%" height="auto" alt="CMA Escritório"></div>
-                                <div class="item"><img style="border-radius: 10px;" class="img-fluid" src="img/EDITADAS/CRISTIANO-16_min.jpg" width="100%" height="auto" alt="CMA Escritório"></div>
-                                <div class="item"><img style="border-radius: 10px;" class="img-fluid" src="img/EDITADAS/CRISTIANO-01_min.jpg" width="100%" height="auto" alt="CMA Escritório"></div>
+                                <div class="item"><img style="border-radius: 10px;" class="img-fluid" src="img/EDITADAS/img1.jpg" width="100%" height="auto" alt="CMA Escritório"></div>
+                                <div class="item"><img style="border-radius: 10px;" class="img-fluid" src="img/EDITADAS/img6.jpg" width="100%" height="auto" alt="CMA Escritório"></div>
+                                <div class="item"><img style="border-radius: 10px;" class="img-fluid" src="img/EDITADAS/img2.jpg" width="100%" height="auto" alt="CMA Escritório"></div>
                             </div>
 
                             <!-- <img style="border-radius: 10px;" class="img-fluid" src="img/mesaADV.jpg" width="100%" height="auto" alt="CMA Escritório"> -->
@@ -227,7 +227,8 @@
                             </div><br>
                         </div>
                         <div class="row justify-content-center" style="margin-top: 20px;">
-                            <a href="<?php echo url_site;?>area-de-atuacao.php" class="button-vermelho">VEJA TODAS AS ÁREAS DE ATUAÇÃO</a>
+                            <!-- <a href="<?php echo url_site;?>area-de-atuacao.php" class="button-vermelho">VEJA TODAS AS ÁREAS DE ATUAÇÃO</a> -->
+                            <a href="<?php echo url_site;?>area-de-atuacao.php" class="button-vermelho">Veja todas as áreas de atuação</a>
                         </div>
                     </div>
                 </div>
@@ -404,10 +405,10 @@
                                     <i class="fab fa-instagram fa-stack-1x"></i>
                                 </a>
                             </span>
-                            <span class="fa-stack" title="Acessar Linkedin Cristiano Meira Advogados">
-                                <a href="<?php echo linkedin;?>" target="_blank">
+                            <span class="fa-stack" title="Acessar WhatsApp Cristiano Meira Advogados">
+                                <a href="<?php echo wpp;?>" target="_blank">
                                     <i class="fas fa-circle fa-stack-2x"></i>
-                                    <i class="fab fa-linkedin-in fa-stack-1x"></i>
+                                    <i class="fab fa-whatsapp fa-stack-1x"></i>
                                 </a>
                             </span>
                         </div>

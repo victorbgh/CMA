@@ -312,7 +312,7 @@ $(document).ready(function(){
         dots:true,
         nav:false,
         autoplayTimeout: 15500,
-        autoHeight:true
+        // autoHeight:true
       //  navText:["<i class='fas fa-long-arrow-alt-left'></i>","<i class='fas fa-long-arrow-alt-right'></i>" ]
     });
 

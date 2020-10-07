@@ -199,9 +199,9 @@
                         
                     <div class="col-sm-12 col-md-6 col-second central-image-col sobre-margin-50">
                         <div class="owl-carousel owl-theme">
-                            <div class="item"><img style="border-radius: 10px;" class="img-fluid" src="img/EDITADAS/CRISTIANO-27_min.jpg" width="100%" height="auto" alt="CMA Escritório"></div>
-                            <div class="item"><img style="border-radius: 10px;" class="img-fluid" src="img/EDITADAS/CRISTIANO-30_min.jpg" width="100%" height="auto" alt="CMA Escritório"></div>
-                            <div class="item"><img style="border-radius: 10px;" class="img-fluid" src="img/EDITADAS/CRISTIANO-33_min.jpg" width="100%" height="auto" alt="CMA Escritório"></div>
+                            <div class="item"><img style="border-radius: 10px;" class="img-fluid" src="img/EDITADAS/img3.jpg" width="100%" height="auto" alt="CMA Escritório"></div>
+                            <div class="item"><img style="border-radius: 10px;" class="img-fluid" src="img/EDITADAS/img4.jpg" width="100%" height="auto" alt="CMA Escritório"></div>
+                            <div class="item"><img style="border-radius: 10px;" class="img-fluid" src="img/EDITADAS/img5.jpg" width="100%" height="auto" alt="CMA Escritório"></div>
                         </div>
                         <!-- <img style="border-radius: 10px;" class="img-fluid" src="img/EDITADAS/CRISTIANO-31.jpg" width="100%" height="auto" alt="CMA Escritório"> -->
                     </div>
@@ -266,10 +266,10 @@
                                     <i class="fab fa-instagram fa-stack-1x"></i>
                                 </a>
                             </span>
-                            <span class="fa-stack" title="Acessar Linkedin Cristiano Meira Advogados">
-                                <a href="<?php echo linkedin;?>" target="_blank">
+                            <span class="fa-stack" title="Acessar WhatsApp Cristiano Meira Advogados">
+                                <a href="<?php echo wpp;?>" target="_blank">
                                     <i class="fas fa-circle fa-stack-2x"></i>
-                                    <i class="fab fa-linkedin-in fa-stack-1x"></i>
+                                    <i class="fab fa-whatsapp fa-stack-1x"></i>
                                 </a>
                             </span>
                         </div>

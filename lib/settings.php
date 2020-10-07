@@ -18,14 +18,14 @@
 
 
 		// CONTATO
-		define("contato_email", "thiago_salests@hotmail.com");
+		define("contato_email", "victorhugogoncalves2010@gmail.com");
 		define("contato_telefone", "(00) - 00000-0000");
 
 		// SOCIAL
-		define("facebook", "https://www.facebook.com");
-		define("youtube", "https://www.youtube.com");
-		define("instagram", "https://www.instagram.com");
-		define("linkedin", "https://www.linkedin.com");
+		define("facebook", "https://www.facebook.com/cristianomeiraadvogados/");
+		define("youtube", "https://www.youtube.com/user/cristianobritomeira/featured");
+		define("instagram", "https://www.instagram.com/cristianomeira/");
+		define("wpp", "https://api.whatsapp.com/send?phone=5561999700595");
 		
 		// RODAPE
 		define("endereco", "Edifício Victoria Office Tower, Salas 1332/1333,");
