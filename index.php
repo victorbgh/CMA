@@ -84,26 +84,30 @@
 
         <header class="header">
             <div class="bg-video-wrap">
-                <video class="video" src="video/videoInstitucional.mp4" loop muted autoplay></video>
+                    <!-- <img class="img-fluid center" src="img/EDITADAS/CRISTIANO-23.JPG" width="auto" height="auto" alt="alternative">  -->
+                <!-- <video class="video" src="video/videoInstitucional.mp4" loop muted autoplay></video> -->
+                <!-- <p class="p-large" style="font-size: 2rem; font-weight: bold; font-style: oblique; line-height: 50px">
+                    Mais que um escritório de advocacia, uma <span class="colorCMA">FAMÍLIA</span></p> -->
                 <div class="overlay">
                     <div class="header-content outer">
                         <div class="container middle">
                             <div class="row inner">
                                 <div class="col-sm-12">
                                     <div class="image-container ">
-                                        <img class="img-fluid center" src="img/logo-transparente.png" width="auto"
-                                            height="auto" alt="alternative">
+                                        <!-- <img class="img-fluid center" src="img/logo-transparente.png" width="auto"
+                                            height="auto" alt="alternative"> -->
                                         <div class="text-container" style="text-align: center;">
-                                            <p class="p-large"
+                                            <!-- <p class="p-large"
                                                 style="font-size: 2rem; font-weight: bold; font-style: oblique; line-height: 50px">
                                                 Mais que um escritório de advocacia, uma <span
-                                                    class="colorCMA">FAMÍLIA</span></p>
+                                                    class="colorCMA">FAMÍLIA</span></p> -->
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
+                    <p class="p-large p-header-class">Mais que um escritório de advocacia, uma <span class="colorCMA">FAMÍLIA</span></p>
                 </div>
             </div>
         </header>
@@ -127,13 +131,11 @@
                         </div>
                         <div class="col-md-7 central-image-col">
 
-                        <div class="owl-carousel owl-theme">
-                            <!-- <div class="item"><img style="border-radius: 10px;" class="img-fluid" src="img/EDITADAS/CRISTIANO-28.jpg" width="100%" height="auto" alt="CMA Escritório"></div> -->
-                            <div class="item"><img style="border-radius: 10px;" class="img-fluid" src="img/EDITADAS/CRISTIANO-01.jpg" width="100%" height="auto" alt="CMA Escritório"></div>
-                            <div class="item"><img style="border-radius: 10px;" class="img-fluid" src="img/EDITADAS/CRISTIANO-05.jpg" width="100%" height="auto" alt="CMA Escritório"></div>
-                            <div class="item"><img style="border-radius: 10px;" class="img-fluid" src="img/EDITADAS/CRISTIANO-16.jpg" width="100%" height="auto" alt="CMA Escritório"></div>
-                            <!-- <div class="item"><img style="border-radius: 10px;" class="img-fluid" src="img/mesaADV.jpg" width="100%" height="auto" alt="CMA Escritório"></div> -->
-                        </div>
+                            <div class="owl-carousel owl-theme">
+                                <div class="item"><img style="border-radius: 10px;" class="img-fluid" src="img/EDITADAS/CRISTIANO-31_min.jpg" width="100%" height="auto" alt="CMA Escritório"></div>
+                                <div class="item"><img style="border-radius: 10px;" class="img-fluid" src="img/EDITADAS/CRISTIANO-16_min.jpg" width="100%" height="auto" alt="CMA Escritório"></div>
+                                <div class="item"><img style="border-radius: 10px;" class="img-fluid" src="img/EDITADAS/CRISTIANO-01_min.jpg" width="100%" height="auto" alt="CMA Escritório"></div>
+                            </div>
 
                             <!-- <img style="border-radius: 10px;" class="img-fluid" src="img/mesaADV.jpg" width="100%" height="auto" alt="CMA Escritório"> -->
                         </div>

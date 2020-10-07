@@ -25,6 +25,8 @@
     <link href="css/terceiros/bootstrap.css" rel="stylesheet">
     <link href="css/terceiros/fontawesome-all.css" rel="stylesheet">
     <link href="css/terceiros/swiper.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/terceiros/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/terceiros/owl.theme.default.min.css">
     <link href="css/terceiros/magnific-popup.css" rel="stylesheet">
     <link href="css/nosso/styles.css" rel="stylesheet">
 
@@ -196,7 +198,12 @@
                     <div class="row">
                         
                     <div class="col-sm-12 col-md-6 col-second central-image-col sobre-margin-50">
-                        <img style="border-radius: 10px;" class="img-fluid" src="img/EDITADAS/CRISTIANO-31.jpg" width="100%" height="auto" alt="CMA Escritório">
+                        <div class="owl-carousel owl-theme">
+                            <div class="item"><img style="border-radius: 10px;" class="img-fluid" src="img/EDITADAS/CRISTIANO-27_min.jpg" width="100%" height="auto" alt="CMA Escritório"></div>
+                            <div class="item"><img style="border-radius: 10px;" class="img-fluid" src="img/EDITADAS/CRISTIANO-30_min.jpg" width="100%" height="auto" alt="CMA Escritório"></div>
+                            <div class="item"><img style="border-radius: 10px;" class="img-fluid" src="img/EDITADAS/CRISTIANO-33_min.jpg" width="100%" height="auto" alt="CMA Escritório"></div>
+                        </div>
+                        <!-- <img style="border-radius: 10px;" class="img-fluid" src="img/EDITADAS/CRISTIANO-31.jpg" width="100%" height="auto" alt="CMA Escritório"> -->
                     </div>
 
                         <div class="col-sm-12 col-md-6 col-first padding-left-30" style="text-align: left; text-transform: none;">
@@ -218,9 +225,6 @@
                                 <p style="text-align: center;">uma <span class="colorCMA"><b>FAMÍLIA!</b></span></p>
                             </div>
                         </div>
-
-                        
-                    </div>
                 </div>
             </div>
         </section>
