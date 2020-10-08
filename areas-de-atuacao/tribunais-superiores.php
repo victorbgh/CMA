@@ -150,7 +150,8 @@
                                 continuidade aos processos junto aos órgãos superiores da Justiça, ratificando a qualidade e expertise 
                                 do nosso trabalho.
                             </p><br>
-                            <p>Atuamos precipuamente no Tribunal Superior do Trabalho e no Superior Tribunal Federal, se destacando entre nossa atuação: </p>
+                            <p>Atuamos precipuamente no Tribunal Superior do Trabalho e no Superior Tribunal Federal.</p><br>
+                            <p>As categorias abaixo, dentre outras, possuem destaque em nossa atuação:</p>
                             <ul>
                                 <li>Confecções de Recursos e peças em geral;</li>
                                 <li>Acompanhamento Processual;</li>

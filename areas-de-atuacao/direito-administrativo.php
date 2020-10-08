@@ -145,15 +145,15 @@
                             <p>O Escritório <span class="colorCMA"><b>CRISTIANO</b></span> <b>MEIRA ADVOGADOS</b> presta serviço jurídico aos seus clientes na seara contenciosa e, 
                                 principalmente, na preventiva, com orientações técnicas e precisas em busca de evitar demandas 
                                 processuais administrativas. </p><br>
-                            <p>Nesse sentido, nossa atuação perante os órgãos
-                                administrativos se baseia em:</p>
+                            <p>Nesse sentido, nossa atuação perante os Órgãos
+                                Administrativos se baseia em:</p>
                             <ul>
                                 <li>Assessoria, consultoria e diligências perante os
-                                    órgãos públicos;</li>
+                                    Órgãos Públicos;</li>
                                 <li>Elaboração de pareceres;</li>
                                 <li>Acompanhamento de procedimentos administrativos;</li>
                                 <li>Defesas administrativas e medidas judiciais nas
-                                    esferas distrital e federal;</li>
+                                    esferas Distrital e Federal;</li>
                                 <li>Elaboração de impugnações e recursos
                                     administrativos;</li>
                             </ul>

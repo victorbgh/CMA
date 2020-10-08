@@ -149,7 +149,7 @@
                                 Unicidade Sindical.</p><br>
                             <p>A vasta experiência que possuímos garante a plena capacidade e autoridade dos nossos Advogados em 
                                 participarem de todas atividades inerentes as Entidades Sindicais, assim como, em prestar consultorias 
-                                de ato nível sobre as temáticas que envolvem a prática sindical. </p><br>
+                                de alto nível sobre as temáticas que envolvem a prática sindical. </p><br>
                             <p>Em nossa atuação, se destacam:</p>
                             <ul>
                                 <li>Assessoria e consultoria relacionadas a todos
@@ -159,8 +159,8 @@
                                     Federações e Confederações;</li>
                                 <li>Negociações de Convenções e Acordos Coletivos
                                     de Trabalho;</li>
-                                <li>Atuação perante o Ministério de Trabalho e
-                                    Emprego – MTE;</li>
+                                <li>Atuação perante o Ministério do Trabalho e
+                                    Emprego – MTE, atualmente incorporado pelo Ministério da Economia;</li>
                                 <li>Ações coletivas e ações civis públicas
                                     propostas por Sindicatos e pelo Ministério
                                     Público do Trabalho (MPT);</li>

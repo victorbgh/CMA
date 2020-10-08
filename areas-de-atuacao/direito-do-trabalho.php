@@ -158,12 +158,12 @@
                                 Procedemos, ainda, com homologação de acordos extrajudiciais, negociações coletivas e individuais, confecção de pareceres e realização de compliance com foco nas relações de trabalho.  </p><br>
                             <p>Dentre outros, se destacam em nossa atuação: </p>
                             <ul>
-                                <li>Confecção de reclamações trabalhistas;</li>
+                                <li>Confecção de reclamações e contestações trabalhistas;</li>
                                 <li>Processos administrativos decorrentes de
                                     fiscalização do Ministério Público do Trabalho
                                     e Ministério do Trabalho e Emprego;</li>
-                                <li>Elaboração de recursos junto aos tribunais
-                                    superiores;</li>
+                                <li>Elaboração de recursos junto aos Tribunais
+                                    Superiores;</li>
                                 <li>Constituição e assessoria de comissão de
                                     conciliação prévia;</li>
                                 <li>Assessoria na elaboração de contratos

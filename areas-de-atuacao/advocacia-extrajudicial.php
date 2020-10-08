@@ -150,9 +150,9 @@
                             <p>Prezamos pela alta qualidade na defesa dos
                                 interesses dos nossos clientes combinados com a
                                 realização do procedimento mais adequado ao caso em
-                                especifico, sempre em busca do menos oneroso e mais
+                                específico, sempre em busca do menos oneroso e mais
                                 diligente.</p><br>
-                            <p>Se destaca nossa atuação em:</p>
+                            <p>Nossa atuação se destaca em:</p>
                             <ul>
                                 <li>Cartórios;</li>
                                 <li>Confecção de Pareceres;</li>
@@ -160,7 +160,7 @@
                                 <li>Inventários;</li>
                                 <li>Separações e Divórcios Consensuais;</li>
                                 <li>Testamentos;</li>
-                                <li>Confecção e Alteração de Contratos;</li>
+                                <li>Confecção e Alterações de Contratos;</li>
                                 <li>Defesas Administrativas;</li>
                             </ul>
                         </div>
