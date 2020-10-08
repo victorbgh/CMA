@@ -101,7 +101,7 @@
                                                     class="colorCMA">FAMÍLIA</span></p> -->
 
                                                 <p class="p-large"
-                                                style="font-size: 3.5rem; font-family: Brush Script MT; font-weight: bold; line-height: 50px">
+                                                style="font-size: 3.5rem; font-family: Brush Script MT; line-height: 50px">
                                                 Mais do que um escritório de advocacia, uma <span class="colorCMA" style="font-family: cursive;">FAMÍLIA!</span></p>
                                         </div>
                                     </div>
