@@ -3020,6 +3020,9 @@ h1.team-h1 {
 		background-attachment: local;
 		background-size: cover;
 	}
+	.img-logo-mobile{
+		display: block;
+	}
 }
 
 @media (min-width:427px) {
@@ -3028,6 +3031,9 @@ h1.team-h1 {
 		background-position: center;
 		background-attachment: local;
 		background-size: cover;
+	}
+	.img-logo-mobile{
+		display: none;
 	}
 }
 

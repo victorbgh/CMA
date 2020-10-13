@@ -92,8 +92,9 @@
                             <div class="row inner">
                                 <div class="col-sm-12">
                                     <div class="image-container ">
-                                        <!-- <img class="img-fluid center" src="img/logo-transparente.png" width="auto"
-                                            height="auto" alt="alternative"> -->
+                                        <!-- <div class="img-fluid center img-logo-mobile"></div> -->
+                                        <img class="img-fluid center img-logo-mobile" src="img/logo-transparente.png" width="auto"
+                                            height="auto" alt="alternative">
                                         <div class="text-container" style="text-align: center;">
                                             <!-- <p class="p-large"
                                                 style="font-size: 2rem; font-weight: bold; font-style: oblique; line-height: 50px">
