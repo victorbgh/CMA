@@ -2775,6 +2775,7 @@ h1.team-h1 {
   
   .middle {
 	display: table-cell;
+	/* margin-top: 40%; */
 	vertical-align: middle;
   }
   
@@ -3034,6 +3035,12 @@ h1.team-h1 {
 	}
 	.img-logo-mobile{
 		display: none;
+	}
+	.texto-home{
+		bottom: -240px; 
+		width: 100%; 
+		position: absolute; 
+		text-align: center;
 	}
 }
 

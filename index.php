@@ -96,23 +96,18 @@
                                         <img class="img-fluid center img-logo-mobile" src="img/logo-transparente.png" width="auto"
                                             height="auto" alt="alternative">
                                         <div class="text-container" style="text-align: center;">
-                                            <!-- <p class="p-large"
-                                                style="font-size: 2rem; font-weight: bold; font-style: oblique; line-height: 50px">
-                                                Mais que um escritório de advocacia, uma <span
-                                                    class="colorCMA">FAMÍLIA</span></p> -->
 
-                                                <!-- <p class="p-large"
-                                                style="font-size: 3.5rem; font-family: Brush Script MT; line-height: 50px">
-                                                Mais do que um escritório de advocacia, uma <span class="colorCMA" style="font-family: cursive;">FAMÍLIA!</span></p> -->
+                                                <p class="p-large texto-home" style="font-size: 3.5rem; font-family: Brush Script MT; line-height: 50px">
+                                                Mais do que um escritório de advocacia, uma <span class="colorCMA" style="font-family: cursive;">FAMÍLIA!</span></p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <p class="p-large"
-                    style="font-size: 3.5rem; font-family: Brush Script MT; line-height: 50px; bottom: 100px; width: 100%; position: absolute; text-align: center;">
-                    Mais do que um escritório de advocacia, uma <span class="colorCMA" style="font-family: cursive;">FAMÍLIA!</span></p>
+                    <!-- <p class="p-large"
+                    style="font-size: 3.5rem; font-family: Brush Script MT; line-height: 50px; bottom: 150px; width: 100%; position: absolute; text-align: center;">
+                    Mais do que um escritório de advocacia, uma <span class="colorCMA" style="font-family: cursive;">FAMÍLIA!</span></p> -->
                     <!-- <p class="p-large p-header-class">Mais que um escritório de advocacia, uma <span class="colorCMA">FAMÍLIA</span></p> -->
                 </div>
             </div>
