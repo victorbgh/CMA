@@ -49,7 +49,7 @@
         <div id="header" class="navtop"></div>
         <nav class="navbar navbar-expand-md navbar-dark navbar-custom fixed-top topo">
             <div class="container">
-                <a class="navbar-brand logo-image" href="<?php echo url_site;?>index.php"><img src="img/logo-transparente.png"
+                <a class="navbar-brand logo-image" href="<?php echo url_site;?>index.php"><img src="img/Cristiano-Meira-Advogados-logo-transparente.png"
                         alt="alternative" height="auto" width="180"></a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#cma-navbars"
                     aria-controls="cma-navbars" aria-expanded="false" aria-label="Toggle navigation">
@@ -93,7 +93,7 @@
                                 <div class="col-sm-12">
                                     <div class="image-container ">
                                         <!-- <div class="img-fluid center img-logo-mobile"></div> -->
-                                        <img class="img-fluid center img-logo-mobile" src="img/logo-transparente.png" width="auto"
+                                        <img class="img-fluid center img-logo-mobile" src="img/Cristiano-Meira-Advogados-logo-transparente.png" width="auto"
                                             height="auto" alt="alternative">
                                         <div class="text-container" style="text-align: center;">
 
@@ -133,9 +133,9 @@
                         <div class="col-md-7 central-image-col">
 
                             <div class="owl-carousel owl-theme">
-                                <div class="item"><img style="border-radius: 10px;" class="img-fluid" src="img/EDITADAS/img1.jpg" width="100%" height="auto" alt="CMA Escritório"></div>
-                                <div class="item"><img style="border-radius: 10px;" class="img-fluid" src="img/EDITADAS/img6.jpg" width="100%" height="auto" alt="CMA Escritório"></div>
-                                <div class="item"><img style="border-radius: 10px;" class="img-fluid" src="img/EDITADAS/img2.jpg" width="100%" height="auto" alt="CMA Escritório"></div>
+                                <div class="item"><img style="border-radius: 10px;" class="img-fluid" src="img/Cristiano-Meira-Advogados-Mesa-Janela.jpg" width="100%" height="auto" alt="CMA Escritório"></div>
+                                <div class="item"><img style="border-radius: 10px;" class="img-fluid" src="img/Cristiano-Meira-Advogados-Mesa-Baixo.jpg" width="100%" height="auto" alt="CMA Escritório"></div>
+                                <div class="item"><img style="border-radius: 10px;" class="img-fluid" src="img/Cristiano-Meira-Advogados-Mesa-reuniao.jpg" width="100%" height="auto" alt="CMA Escritório"></div>
                             </div>
 
                             <!-- <img style="border-radius: 10px;" class="img-fluid" src="img/mesaADV.jpg" width="100%" height="auto" alt="CMA Escritório"> -->
@@ -380,7 +380,7 @@
                 <div class="row">
                     <div class="col-md-4">
                         <div class="footer-col">
-                            <img class="img-fluid" src="img/logo-transparente.png" alt="alternative">
+                            <img class="img-fluid" src="img/Cristiano-Meira-Advogados-logo-transparente.png" alt="alternative">
                         </div>
                     </div>
                     <div class="col-md-3">

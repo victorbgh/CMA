@@ -51,7 +51,7 @@
 
         <nav class="navbar navbar-expand-md navbar-dark navbar-custom fixed-top">
             <div class="container">
-                <a class="navbar-brand logo-image" href="<?php echo url_site;?>"><img src="../img/logo-transparente.png"
+                <a class="navbar-brand logo-image" href="<?php echo url_site;?>"><img src="../img/Cristiano-Meira-Advogados-logo-transparente.png"
                         alt="alternative" height="auto" width="180"></a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#cma-navbars"
                     aria-controls="cma-navbars" aria-expanded="false" aria-label="Toggle navigation">
@@ -211,7 +211,7 @@
                 <div class="row">
                     <div class="col-md-4">
                         <div class="footer-col">
-                            <img class="img-fluid" src="../img/logo-transparente.png" alt="alternative">
+                            <img class="img-fluid" src="../img/Cristiano-Meira-Advogados-logo-transparente.png" alt="alternative">
                         </div>
                     </div>
                     <div class="col-md-3">

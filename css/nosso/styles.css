@@ -950,7 +950,7 @@ input[type='checkbox'] {
 
 .img-area-de-atuacao{
 	background: #f8f8f8;
-	background-image: url('../../img/doc1.png');
+	background-image: url('../../img/cma-logo-desenho.png');
 	background-repeat: no-repeat;
 	background-position: right;
 	width: 100%;
@@ -960,7 +960,7 @@ input[type='checkbox'] {
 
 .img-contato{
 	background: #f8f8f8;
-	background-image: url(../../img/docinverse.png);
+	background-image: url(../../img/cma-logo-desenho-inverso.png);
 	background-repeat: no-repeat;
     background-position: left;
     width: 100%;
@@ -1224,12 +1224,6 @@ input[type='checkbox'] {
 /************************/
 /*     11. Download     */
 /************************/
-.basic-4 {
-	padding-top: 6.5rem;
-	padding-bottom: 6.75rem;
-	background: url('../img/download-background.jpg') center center no-repeat;
-	background-size: cover; 
-}
 
 .basic-4 .text-container {
 	margin-bottom: 3.5rem;
@@ -1394,7 +1388,7 @@ a:hover.back-to-top {
 .ex-header {
 	background: linear-gradient(to bottom right, #4f0f12, #cb4047);
 	text-align: center;
-	background: url(../../img/EDITADAS/CRISTIANO-28_min.jpg) fixed no-repeat;
+	background: url(../../img/Cristiano-Meira-Advogados-Papel.jpg) fixed no-repeat;
 	/* background: url(../../img/EDITADAS/img4.jpg) fixed no-repeat; */
 	/* background-position: -730px -360px; */
 	/* background-position: 50% 50%; */
@@ -3015,7 +3009,7 @@ h1.team-h1 {
 }
 @media (max-width: 426px){
 	.bg-video-wrap{
-		background: url('../../img/EDITADAS/img_folha.jpg') no-repeat center; 
+		background: url('../../img/Cristiano-Meira-Advogados-Papel.jpg') no-repeat center; 
 		
 		background-position: center;
 		background-attachment: local;
@@ -3028,7 +3022,7 @@ h1.team-h1 {
 
 @media (min-width:427px) {
 	.bg-video-wrap{
-		background: url('../../img/EDITADAS/logo_img2.jpg') no-repeat center;
+		background: url('../../img/Cristiano-Meira-Advogados-Logo-frente.jpg') no-repeat center;
 		background-position: center;
 		background-attachment: local;
 		background-size: cover;
