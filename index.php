@@ -243,14 +243,15 @@
                     <div class="divider"><span></span></div>
                     <div class="wrap-cards">
                         <div class="card">
-                            <div class="wrap-image"><img
-                                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjKJW19Ao-jutIeb0dyDGULvkTnksdcC7EJ3x-3GY6CDJhC9P9"
-                                    alt="CMA FOTOS" /><svg viewBox="0.01 484.5 591.753 113.677"
-                                    preserveAspectRatio="none">
-                                    <path
-                                        d=" M 0 560 Q 118.192 471.782 310 560 Q 495.161 645.161 600 520 L 600 600 L 0 600 L 0 560 Z ">
-                                    </path>
-                                </svg></div>
+                            <div class="wrap-image">
+                            <!-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjKJW19Ao-jutIeb0dyDGULvkTnksdcC7EJ3x-3GY6CDJhC9P9" alt="CMA FOTOS"/> -->
+                                <img src="img/cristiano.png"alt="CMA FOTOS" heigth="auto"/>
+                                    <svg viewBox="0.01 484.5 591.753 113.677" preserveAspectRatio="none">
+                                        <path
+                                            d=" M 0 560 Q 118.192 471.782 310 560 Q 495.161 645.161 600 520 L 600 600 L 0 600 L 0 560 Z ">
+                                        </path>
+                                    </svg>
+                            </div>
                             <div class="contents familyFont">
                                 <h3>Cristiano Brito Alves Meira</h3>
                                 <span style="display: block;">OAB/DF 16.764 | OAB/SP 407.076</span>
@@ -263,14 +264,15 @@
                         </div>
 
                         <div class="card">
-                            <div class="wrap-image"><img
-                                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjKJW19Ao-jutIeb0dyDGULvkTnksdcC7EJ3x-3GY6CDJhC9P9"
-                                    alt="CMA FOTOS" /><svg viewBox="0.01 484.5 591.753 113.677"
-                                    preserveAspectRatio="none">
-                                    <path
-                                        d=" M 0 560 Q 118.192 471.782 310 560 Q 495.161 645.161 600 520 L 600 600 L 0 600 L 0 560 Z ">
-                                    </path>
-                                </svg></div>
+                            <div class="wrap-image">
+                            <!-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjKJW19Ao-jutIeb0dyDGULvkTnksdcC7EJ3x-3GY6CDJhC9P9" alt="CMA FOTOS"/> -->
+                                <img src="img/irair.png" alt="CMA FOTOS" heigth="auto"/>
+                                    <svg viewBox="0.01 484.5 591.753 113.677" preserveAspectRatio="none">
+                                        <path
+                                            d=" M 0 560 Q 118.192 471.782 310 560 Q 495.161 645.161 600 520 L 600 600 L 0 600 L 0 560 Z ">
+                                        </path>
+                                    </svg>
+                            </div>
                             <div class="contents familyFont">
                                 <h3>Irair Alves Rodrigues</h3>
                                 <span style="display: block;">OAB/DF 47.006</span>
@@ -282,10 +284,11 @@
                             </div>
                         </div>
                         <div class="card">
-                            <div class="wrap-image"><img
-                                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjKJW19Ao-jutIeb0dyDGULvkTnksdcC7EJ3x-3GY6CDJhC9P9"
-                                    alt="CMA FOTOS" /><svg viewBox="0.01 484.5 591.753 113.677"
-                                    preserveAspectRatio="none">
+                        <!-- https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjKJW19Ao-jutIeb0dyDGULvkTnksdcC7EJ3x-3GY6CDJhC9P9 -->
+                            <div class="wrap-image">
+                                <!-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjKJW19Ao-jutIeb0dyDGULvkTnksdcC7EJ3x-3GY6CDJhC9P9" alt="CMA FOTOS"/> -->
+                                <img src="img/My Post.png" alt="CMA FOTOS"/>
+                                    <svg viewBox="0.01 484.5 591.753 113.677" preserveAspectRatio="none">
                                     <path
                                         d=" M 0 560 Q 118.192 471.782 310 560 Q 495.161 645.161 600 520 L 600 600 L 0 600 L 0 560 Z ">
                                     </path>

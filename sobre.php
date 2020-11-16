@@ -221,8 +221,8 @@
                                 entregando o melhor serviço jurídico que nossos clientes esperam e merecem, sempre se preocupando com o seu bem estar. 
                                 </p><br>
                                 <p>Por isso temos orgulho em dizer que por todos esses anos somos:</p><br>
-                                <p style="text-align: center; font-family: Brush Script MT; font-size: 2.5em;">Mais do que um escritório de Advocacia,</p><br>
-                                <p style="text-align: center; font-family: cursive;">uma <span class="colorCMA"><b>FAMÍLIA!</b></span></p>
+                                <p>Mais do que um escritório de Advocacia, uma <span class="colorCMA"><b>FAMÍLIA!</b></span></p><br>
+                                <!-- <p>uma <span class="colorCMA"><b>FAMÍLIA!</b></span></p> -->
                             </div>
                         </div>
                 </div>
