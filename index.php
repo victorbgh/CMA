@@ -98,7 +98,7 @@
                                         <div class="text-container" style="text-align: center;">
 
                                                 <p class="p-large texto-home" style="font-size: 3.5rem; font-family: Brush Script MT; line-height: 50px">
-                                                Mais do que um escritório de advocacia, uma <span class="colorCMA" style="font-size: 3.5rem; font-family: Brush Script MT; line-height: 50px">FAMÍLIA!</span></p>
+                                                Mais do que um escritório de advocacia, uma <span class="colorCMA" style="font-size: 3.5rem; font-family: Brush Script MT; line-height: 50px">família!</span></p>
                                         </div>
                                     </div>
                                 </div>
