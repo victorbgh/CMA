@@ -98,7 +98,7 @@
                                         <div class="text-container" style="text-align: center;">
 
                                                 <p class="p-large texto-home" style="font-size: 3.5rem; font-family: Brush Script MT; line-height: 50px">
-                                                Mais do que um escritório de advocacia, uma <span class="colorCMA" style="font-family: cursive;">FAMÍLIA!</span></p>
+                                                Mais do que um escritório de advocacia, uma <span class="colorCMA" style="font-size: 3.5rem; font-family: Brush Script MT; line-height: 50px">FAMÍLIA!</span></p>
                                         </div>
                                     </div>
                                 </div>
@@ -245,7 +245,7 @@
                         <div class="card">
                             <div class="wrap-image">
                             <!-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjKJW19Ao-jutIeb0dyDGULvkTnksdcC7EJ3x-3GY6CDJhC9P9" alt="CMA FOTOS"/> -->
-                                <img src="img/cristiano.png"alt="CMA FOTOS" heigth="auto"/>
+                                <img src="img/agrvai1.png"alt="Dr Cristiano Meira"/>
                                     <svg viewBox="0.01 484.5 591.753 113.677" preserveAspectRatio="none">
                                         <path
                                             d=" M 0 560 Q 118.192 471.782 310 560 Q 495.161 645.161 600 520 L 600 600 L 0 600 L 0 560 Z ">
@@ -266,7 +266,7 @@
                         <div class="card">
                             <div class="wrap-image">
                             <!-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjKJW19Ao-jutIeb0dyDGULvkTnksdcC7EJ3x-3GY6CDJhC9P9" alt="CMA FOTOS"/> -->
-                                <img src="img/irair.png" alt="CMA FOTOS" heigth="auto"/>
+                                <img src="img/agrvai3.png" alt="Dr Irair Alves"/>
                                     <svg viewBox="0.01 484.5 591.753 113.677" preserveAspectRatio="none">
                                         <path
                                             d=" M 0 560 Q 118.192 471.782 310 560 Q 495.161 645.161 600 520 L 600 600 L 0 600 L 0 560 Z ">
@@ -287,7 +287,7 @@
                         <!-- https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjKJW19Ao-jutIeb0dyDGULvkTnksdcC7EJ3x-3GY6CDJhC9P9 -->
                             <div class="wrap-image">
                                 <!-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjKJW19Ao-jutIeb0dyDGULvkTnksdcC7EJ3x-3GY6CDJhC9P9" alt="CMA FOTOS"/> -->
-                                <img src="img/My Post.png" alt="CMA FOTOS"/>
+                                <img src="img/agrvai2.png" alt="Dr Gabriel Meira"/>
                                     <svg viewBox="0.01 484.5 591.753 113.677" preserveAspectRatio="none">
                                     <path
                                         d=" M 0 560 Q 118.192 471.782 310 560 Q 495.161 645.161 600 520 L 600 600 L 0 600 L 0 560 Z ">
