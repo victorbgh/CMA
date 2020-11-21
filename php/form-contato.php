@@ -4,8 +4,8 @@
     
     if(isset($_POST['email']) && !empty($_POST['email'])){
         
-        // $emailParaEnviar = "victorhugogoncalves2010@gmail.com";
-        $emailParaEnviar = addslashes($_POST['email']);
+        $emailParaEnviar = "victorhugogoncalves2010@gmail.com";
+        // $emailParaEnviar = addslashes($_POST['email']);
         $nome = addslashes($_POST['nome']);
         $email = addslashes($_POST['email']);
         $mensagem = addslashes($_POST['mensagem']);

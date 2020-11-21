@@ -75,10 +75,10 @@
                         <li class="nav-item">
                             <a class="nav-link page-scroll" href="<?php echo url_site;?>index.php#contact">Contato</a>
                         </li>
-                        <li class="nav-item">
+                        <!-- <li class="nav-item">
                             <a class="nav-link page-scroll" href="<?php echo url_site;?>artigos.php">Artigos<span
                                     class="sr-only">(current)</span></a>
-                        </li>
+                        </li> -->
                     </ul>
                 </div>
             </div>

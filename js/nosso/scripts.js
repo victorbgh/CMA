@@ -279,12 +279,6 @@ function toggleIcon(e) {
 $(document).ready(function(){
 
     var hash = window.location.href;
-     
-    if($(window).scrollTop() === 0 && window.location.href.indexOf('index.php') > -1) {
-        $('nav').addClass('topo');
-    }else{
-        $('nav').removeClass('topo');
-    }
 
     if (window.location.hash.indexOf('openCollapse') != -1) {
         var urlCollapse = window.location.hash.split('#');
@@ -328,16 +322,6 @@ $(document).ready(function(){
 
 
 });
-
-$(document).scroll(function() {
-    var hash = window.location.href;
-     
-    if($(window).scrollTop() === 0 && window.location.href.indexOf('index.php') > -1) {
-        $('nav').addClass('topo');
-    }else{
-        $('nav').removeClass('topo');
-    }
- });
 
 function openPage(pageName) {
     if (pageName === "artigos") {

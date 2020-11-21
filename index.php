@@ -73,9 +73,9 @@
                         <li class="nav-item">
                             <a class="nav-link page-scroll" href="#contact">Contato</a>
                         </li>
-                        <li class="nav-item" onclick="openPage('artigos')">
+                        <!-- <li class="nav-item" onclick="openPage('artigos')">
                             <a class="nav-link page-scroll" href="#artigos">Artigos</a>
-                        </li>
+                        </li> -->
                     </ul>
                 </div>
             </div>
