@@ -45,9 +45,16 @@
                 <div class="bounce3"></div>
             </div>
         </div>
+        <div class="spinner-wrapper-custom display-none">
+            <div class="spinner">
+                <div class="bounce1"></div>
+                <div class="bounce2"></div>
+                <div class="bounce3"></div>
+            </div>
+        </div>
 
         <div id="header" class="navtop"></div>
-        <nav class="navbar navbar-expand-md navbar-dark navbar-custom fixed-top topo">
+        <nav class="navbar navbar-expand-md navbar-dark navbar-custom fixed-top">
             <div class="container">
                 <a class="navbar-brand logo-image" href="<?php echo url_site;?>index.php"><img src="img/Cristiano-Meira-Advogados-logo-transparente.png"
                         alt="alternative" height="auto" width="180"></a>

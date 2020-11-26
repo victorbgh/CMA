@@ -8,21 +8,69 @@
     </url>
 
     <url>
-        <loc>https://www.cristianomeira.com.br/index.php</loc>
+        <loc>https://www.cristianomeira.com.br/index</loc>
         <changefreq>daily</changefreq>
-        <priority>1.0</priority>
+        <priority>0.8</priority>
     </url>
 
     <url>
-        <loc>https://www.cristianomeira.com.br/sobre.php</loc>
+        <loc>https://www.cristianomeira.com.br/sobre</loc>
         <changefreq>daily</changefreq>
-        <priority>1.0</priority>
+        <priority>0.8</priority>
     </url>
 
 
     <url>
-        <loc>https://www.cristianomeira.com.br/login.php</loc>
+        <loc>https://www.cristianomeira.com.br/area-de-atuacao</loc>
         <changefreq>daily</changefreq>
-        <priority>0.5</priority>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://www.cristianomeira.com.br/areas-de-atuacao/direito-do-trabalho</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://www.cristianomeira.com.br/areas-de-atuacao/direito-sindical</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://www.cristianomeira.com.br/areas-de-atuacao/contratos</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://www.cristianomeira.com.br/areas-de-atuacao/tribunais-superiores</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://www.cristianomeira.com.br/areas-de-atuacao/advocacia-extrajudicial</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://www.cristianomeira.com.br/areas-de-atuacao/direito-administrativo</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://www.cristianomeira.com.br/areas-de-atuacao/preventivo-e-contencioso</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://www.cristianomeira.com.br/areas-de-atuacao/parcerias</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.6</priority>
     </url>
 </urlset>

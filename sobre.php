@@ -43,7 +43,7 @@
             </div>
         </div>
 
-        <nav class="navbar navbar-expand-md navbar-dark navbar-custom fixed-top topo">
+        <nav class="navbar navbar-expand-md navbar-dark navbar-custom fixed-top">
             <div class="container">
                 <a class="navbar-brand logo-image" href="<?php echo url_site;?>"><img src="img/Cristiano-Meira-Advogados-logo-transparente.png"
                         alt="alternative" height="auto" width="180"></a>

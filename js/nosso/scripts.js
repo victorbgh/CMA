@@ -162,12 +162,24 @@
                     cformError();
                     csubmitMSG(false, text);
                 }
-            }
+            },
+            beforeSend: function(){
+                $('.spinner-wrapper-custom').removeClass('display-none');
+                $('.spinner-wrapper-custom').addClass('display-block');
+            },
+            complete: function(){
+                $('.spinner-wrapper-custom').removeClass('display-block');
+                $('.spinner-wrapper-custom').addClass('display-none');
+
+                // setTimeout(function(){ 
+                     
+                // }, 3000);
+            },
         });
 	}
 
     function cformSuccess() {
-        $("#contactForm-atuacao")[0].reset();
+        $("#contactForm")[0].reset();
         csubmitMSG(true, "Mensagem enviada com sucesso!");
         $("input").removeClass('notEmpty');
         $("textarea").removeClass('notEmpty'); 
