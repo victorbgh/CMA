@@ -19,7 +19,7 @@ use PHPMailer\PHPMailer\PHPMailer;
     $mailer->Host = 'smtp.gmail.com';//Endereço do Host do SMTP 
     $mailer->SMTPAuth = true; //define se haverá ou não autenticação 
     $mailer->Username ="testevictorhugo2020@gmail.com"; //Login de autenticação do SMTP
-    $mailer->Password = "abcv3625"; //Senha de autenticação do SMTP
+    $mailer->Password = ""; //Senha de autenticação do SMTP
     $mailer->isHTML(true);
     $mailer->FromName = 'Formulário site Cristiano Meira Advogados'; //Nome que será exibido
     $mailer->From = 'victorhugo-brito@hotmail.com';
