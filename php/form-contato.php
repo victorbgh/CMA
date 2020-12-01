@@ -23,7 +23,7 @@ use PHPMailer\PHPMailer\PHPMailer;
     $mailer->isHTML(true);
     $mailer->FromName = 'Formulário site Cristiano Meira Advogados'; //Nome que será exibido
     $mailer->From = 'victorhugo-brito@hotmail.com';
-    $mailer->AddAddress('victorhugogoncalves2010@gmail.com','Cristiano Meira Advogados');
+    $mailer->AddAddress('gabriel@cristianomeira.com.br','Cristiano Meira Advogados');
     //Destinatários
     $mailer->Subject = 'Nova mensagem enviada do formulário do site Cristiano Meira Advogados';
     $mailer->Body = '<strong>Nova mensagem enviada do formulário do site!</strong><br><br><b>Nome: </b>' .$nome. '<br><b>E-mail: </b>'.$email.'<br><b>Mensagem: </b>' .$mensagem;

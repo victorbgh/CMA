@@ -128,7 +128,7 @@
                         </div>
 
                         <div class="col-sm-12 col-md-6 col-second bottom-image-col margin-top-40" style="margin-bottom: 31px;">
-                            <video class="align-middle" style="border-radius: 10px;" width="100%" height="auto" loop muted autoplay> 
+                            <video class="align-middle" style="border-radius: 10px;" width="100%" height="auto" loop muted autoplay playsinline poster="img/Cristiano-Meira-Advogados-Mesa.jpg"> 
                                 <source src="img/video-teste-3.mp4" type="video/mp4">
                             </video>
                             
