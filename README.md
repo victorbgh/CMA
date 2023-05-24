@@ -1,0 +1,1 @@
+[![Board Status](https://dev.azure.com/victorhugo-brito/91066479-093b-4090-88f3-655586dce373/a9644063-c7fd-4e29-86bd-7d9ca07ccc75/_apis/work/boardbadge/8b57bdd7-2c04-4d60-a918-788e3384faad)](https://dev.azure.com/victorhugo-brito/91066479-093b-4090-88f3-655586dce373/_boards/board/t/a9644063-c7fd-4e29-86bd-7d9ca07ccc75/Microsoft.RequirementCategory)
